@@ -59,7 +59,7 @@ Have a look at <a href="https://github.com/LiangliangNan/Easy3D/blob/main/HowToB
 tutorial</a>.
 
 ## Usage
-The current implementation directly generates augmented point clouds with implicit features. 
+The current implementation directly generates augmented point clouds, i.e., xyz (+ rgb) + implicit features. 
 These augmented point clouds can then be used as input for point-based neural networks.
 The [main.cpp](./code/main.cpp) file demonstrates how to use the ImplicitFeatureEncoding class.
 To encode implicit features, run the built executable like this:
