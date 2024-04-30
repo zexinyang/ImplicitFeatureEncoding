@@ -71,7 +71,7 @@ To encode implicit features, run the built executable like this:
 - `<output_path>` path where the resulting augmented point cloud files will be saved
 
 ## Citation
-We kindly ask you to cite our paper if you use (part of) the code, ideas, or dataset in your academic work:
+We kindly ask you to cite our paper if you use (part of) the code or ideas in your academic work:
 
 ```bibtex
 @article{yang2022enriching,
