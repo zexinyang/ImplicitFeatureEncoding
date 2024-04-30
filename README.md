@@ -1,5 +1,9 @@
 # ImplicitFeatureEncoding
 
+<p align="center"> 
+  <img src="./image/person.jpg">
+<p/>
+
 This repository implements the method described in the following [paper](https://www.mdpi.com/2072-4292/15/1/61):
 ```
 Zexin Yang, Qin Ye, Jantien Stoter, and Liangliang Nan. 
